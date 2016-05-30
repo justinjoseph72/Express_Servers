@@ -1,0 +1,4 @@
+commands to start the server
+
+node app 
+node app.js
